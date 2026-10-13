@@ -7,7 +7,7 @@ die Versionierung [Semantic Versioning](https://semver.org/lang/de/).
 
 ### Hinzugefügt
 
-- Icon `.claude-plugin/icon.png`: Dokument mit dem Wort „ebuch“ in Braille-Punktschrift
+- Icon ergänzt: Dokument mit dem Wort „ebuch“ in Braille-Punktschrift
 
 ## [0.2.0] – 2026-10-13
 
