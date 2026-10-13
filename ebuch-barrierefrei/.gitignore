@@ -1,0 +1,16 @@
+# Arbeitsordner der Übertragungen (enthalten Quellmaterial und Bilder)
+arbeit/
+*.docx
+*.pptx
+*.pdf
+!beispiele/**/*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini

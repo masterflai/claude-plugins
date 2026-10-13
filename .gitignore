@@ -1,0 +1,27 @@
+# Kein Quell- oder Unterrichtsmaterial in die Historie.
+# Schützt insbesondere vor versehentlich abgelegten personenbezogenen Daten.
+arbeit/
+*.pptx
+*.potx
+*.docx
+*.dotx
+*.pdf
+*.xlsx
+*.odt
+*.odp
+
+# Gepackte Plugins werden nicht versioniert, sondern aus dem Quellstand erzeugt
+*.plugin
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Betriebssystem und Editoren
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,23 @@
+{
+  "name": "ebuch-barrierefrei",
+  "displayName": "E-Buch barrierefrei",
+  "version": "0.2.0",
+  "description": "Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in barrierefreie DOCX-Dateien nach E-Buch-Standard für blinde und sehbehinderte Lernende.",
+  "author": {
+    "name": "masterflai",
+    "url": "https://github.com/masterflai"
+  },
+  "homepage": "https://github.com/masterflai/claude-plugins/tree/main/ebuch-barrierefrei",
+  "repository": "https://github.com/masterflai/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "barrierefreiheit",
+    "accessibility",
+    "e-buch-standard",
+    "screenreader",
+    "braille",
+    "docx",
+    "unterrichtsmaterial",
+    "inklusion"
+  ]
+}
