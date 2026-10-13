@@ -1,7 +1,7 @@
 {
   "name": "ebuch-barrierefrei",
   "displayName": "E-Buch barrierefrei",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in barrierefreie DOCX-Dateien nach E-Buch-Standard für blinde und sehbehinderte Lernende.",
   "author": {
     "name": "masterflai",

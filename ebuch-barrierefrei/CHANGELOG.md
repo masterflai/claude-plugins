@@ -3,6 +3,12 @@
 Das Format folgt [Keep a Changelog](https://keepachangelog.com/de/1.1.0/),
 die Versionierung [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.2.1] – 2026-10-13
+
+### Hinzugefügt
+
+- Icon `.claude-plugin/icon.png`: Dokument mit dem Wort „ebuch“ in Braille-Punktschrift
+
 ## [0.2.0] – 2026-10-13
 
 Erste öffentliche Fassung.
