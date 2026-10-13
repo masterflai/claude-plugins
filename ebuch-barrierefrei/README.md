@@ -3,7 +3,7 @@
 Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in barrierefreie DOCX-Dateien nach E-Buch-Standard — für Lernende, die mit Screenreader oder Braillezeile arbeiten.
 
 **Autor:** [masterflai](https://github.com/masterflai)
-**Version:** 0.2.1
+**Version:** 0.2.2
 **Lizenz:** MIT — frei nutzbar, auch kommerziell, bei Nennung des Autors
 **Zielfassung des Standards:** E-Buch-Standard, Handreichung in der aktualisierten Fassung 2025 (geprüft im September 2026)
 
@@ -76,6 +76,8 @@ Der E-Buch-Standard wurde 2007 von einer Arbeitsgruppe im Auftrag des Arbeitskre
 Die verbindliche Fassung ist immer die Handreichung auf augenbit.de. Erscheint dort eine neue Fassung, gehört dieses Plugin überprüft.
 
 ## Datenschutz
+
+Ausführlich: [Datenschutzhinweise / Privacy](PRIVACY.md)
 
 Die Verarbeitung findet in Anthropics Cloud statt: Die Quelldatei wird dorthin übertragen und dort gelesen.
 
