@@ -3,6 +3,18 @@
 Das Format folgt [Keep a Changelog](https://keepachangelog.com/de/1.1.0/),
 die Versionierung [Semantic Versioning](https://semver.org/lang/de/).
 
+## [0.2.3] – 2026-10-15
+
+### Hinzugefügt
+
+- Englische Fassung der Beschreibung (README.en.md) mit Sprachumschalter, englischer Lizenzhinweis zum E-Buch-Standard
+- Zweisprachige Beschreibung im Manifest und im Katalog, englische Schlagwörter
+- Englische Auslöser für die Fähigkeit `ebuch`
+
+### Geändert
+
+- Rückfragen und Ergebnisbericht in der Sprache des Nutzers; das erzeugte Dokument bleibt deutsch nach E-Buch-Standard. Bei nicht deutschem Quellmaterial gibt es vorab einen Hinweis.
+
 ## [0.2.2] – 2026-10-13
 
 ### Hinzugefügt

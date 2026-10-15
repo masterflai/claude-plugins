@@ -1,9 +1,11 @@
 # E-Buch barrierefrei
 
+**Deutsch** · [English](README.en.md)
+
 Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in barrierefreie DOCX-Dateien nach E-Buch-Standard — für Lernende, die mit Screenreader oder Braillezeile arbeiten.
 
 **Autor:** [masterflai](https://github.com/masterflai)
-**Version:** 0.2.2
+**Version:** 0.2.3
 **Lizenz:** MIT — frei nutzbar, auch kommerziell, bei Nennung des Autors
 **Zielfassung des Standards:** E-Buch-Standard, Handreichung in der aktualisierten Fassung 2025 (geprüft im September 2026)
 

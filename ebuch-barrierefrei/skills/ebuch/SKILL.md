@@ -1,6 +1,6 @@
 ---
 name: ebuch
-description: Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in eine barrierefreie DOCX nach E-Buch-Standard für blinde und sehbehinderte Lernende. Auslösen bei "barrierefrei machen", "für eine blinde Person lesbar", "E-Buch-Standard", "Screenreader-tauglich", "in Braille ausgeben", "Folien als Text für Sehbehinderte", oder wenn eine Präsentation oder ein Skript für einen blinden Lernenden aufbereitet werden soll.
+description: Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in eine barrierefreie DOCX nach E-Buch-Standard für blinde und sehbehinderte Lernende. Auslösen bei "barrierefrei machen", "für eine blinde Person lesbar", "E-Buch-Standard", "Screenreader-tauglich", "in Braille ausgeben", "Folien als Text für Sehbehinderte", oder wenn eine Präsentation oder ein Skript für einen blinden Lernenden aufbereitet werden soll. Also use for English requests such as "make this accessible for a blind student", "screen reader friendly version", "convert these slides for a visually impaired learner" or "E-Buch standard"; the resulting document follows the German E-Buch standard.
 ---
 
 # Barrierefreie Übertragung nach E-Buch-Standard
@@ -20,6 +20,8 @@ Nicht erreichbar? Standard nehmen und die Annahme im Ergebnis benennen.
 3. **Abgabe an ein Medienzentrum?** Dann vorher die aktuelle Handreichung auf augenbit.de prüfen. Die Wiki-Seite nennt die gültige Fassung. Dieses Plugin zielt auf die **Fassung 2025** (Seite zuletzt am 31.03.2025 bearbeitet, Stand der Prüfung: September 2026).
 
 Bei Prüfungen oder Leistungsnachweisen mit Namen von Lernenden: auf die Cloud-Verarbeitung hinweisen, bevor die Datei gelesen wird.
+
+**Sprache:** Rückfragen und Ergebnisbericht in der Sprache des Nutzers. Das erzeugte Dokument folgt immer dem deutschen E-Buch-Standard (Marken, Vorbemerkung, Dokumentsprache Deutsch). Ist das Quellmaterial nicht deutsch, vorab darauf hinweisen: Die Dokumentsprache steht auf Deutsch, ein Screenreader würde fremdsprachigen Text dann mit deutscher Aussprache vorlesen.
 
 ## Ablauf
 

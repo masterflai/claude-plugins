@@ -24,8 +24,9 @@ Für das Plugin selbst siehe [`ebuch-barrierefrei/README.md`](ebuch-barrierefrei
 2. Version anheben, **an beiden Stellen gleich**:
    - `ebuch-barrierefrei/.claude-plugin/plugin.json` → `version`
    - `.claude-plugin/marketplace.json` → `plugins[0].version`
-   - zusätzlich die Zeile „Version" oben in `ebuch-barrierefrei/README.md`
+   - zusätzlich die Zeile „Version" oben in `ebuch-barrierefrei/README.md` **und** `ebuch-barrierefrei/README.en.md`
 3. Eintrag in `ebuch-barrierefrei/CHANGELOG.md`.
+   Geänderte Texte in beiden Sprachen nachziehen: Jede README gibt es als `README.md` (Deutsch) und `README.en.md` (Englisch); die Beschreibungen in `plugin.json` und `marketplace.json` sind zweisprachig.
 4. Prüfen:
    ```
    claude plugin validate --strict ./ebuch-barrierefrei
@@ -71,7 +72,7 @@ Bei einer neuen Fassung:
 
 1. Handreichung mit `ebuch-barrierefrei/skills/ebuch/references/ebuch-konventionen.md` abgleichen und Änderungen nachziehen.
 2. Zielfassung anpassen in:
-   - `ebuch-barrierefrei/README.md` (Kopf)
+   - `ebuch-barrierefrei/README.md` und `ebuch-barrierefrei/README.en.md` (Kopf)
    - `ebuch-barrierefrei/skills/ebuch/SKILL.md` (Abschnitt „Vorab klären")
    - `ebuch-barrierefrei/skills/ebuch/scripts/ebuch_docx.py` (Standardwert `fassung` in `vorbemerkung()`)
    - diese Datei (Abschnitt oben)

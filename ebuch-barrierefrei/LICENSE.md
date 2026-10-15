@@ -35,3 +35,17 @@ Handreichung nicht. Verbindlich ist immer die Fassung auf augenbit.de.
 Dieses Plugin ist keine offizielle Umsetzung des Standards und steht in keiner
 Verbindung zu augenbit.de, zum Arbeitskreis Medienzentren oder zu den
 herausgebenden Stellen.
+
+## Note on the E-Buch standard
+
+This license covers this plugin — the code, the instructions and the
+reference files.
+
+It does **not** cover the E-Buch standard itself. The standard is issued by the
+Arbeitskreis Medienzentren and published on augenbit.de. This plugin summarises
+its conventions for practical use and does not replace the official guidance.
+The version on augenbit.de is always the binding one.
+
+This plugin is not an official implementation of the standard and is not
+affiliated with augenbit.de, the Arbeitskreis Medienzentren or the publishing
+bodies.

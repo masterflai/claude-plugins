@@ -4,13 +4,13 @@
     "name": "masterflai",
     "url": "https://github.com/masterflai"
   },
-  "description": "Plugins für Claude von masterflai. Frei nutzbar unter MIT-Lizenz.",
+  "description": "Plugins für Claude von masterflai. Frei nutzbar unter MIT-Lizenz. — Claude plugins by masterflai, free to use under the MIT License.",
   "plugins": [
     {
       "name": "ebuch-barrierefrei",
       "source": "./ebuch-barrierefrei",
-      "version": "0.2.2",
-      "description": "Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in barrierefreie DOCX-Dateien nach E-Buch-Standard für blinde und sehbehinderte Lernende."
+      "version": "0.2.3",
+      "description": "Überträgt Unterrichtsmaterial aus PowerPoint, Word oder PDF in barrierefreie DOCX-Dateien nach E-Buch-Standard für blinde und sehbehinderte Lernende. — Converts teaching material from PowerPoint, Word or PDF into accessible DOCX files following the German E-Buch standard for blind and visually impaired learners."
     }
   ]
 }

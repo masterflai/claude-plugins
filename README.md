@@ -1,5 +1,7 @@
 # Claude Plugins von masterflai
 
+**Deutsch** · [English](README.en.md)
+
 Plugins für Claude, frei nutzbar unter MIT-Lizenz.
 
 ## Enthaltene Plugins
